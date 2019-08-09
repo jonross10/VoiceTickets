@@ -1,5 +1,5 @@
 {
-  "name": "alexa-skill-voic-tickets",
+  "name": "alexa-skill-voice-tickets",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
